@@ -224,7 +224,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background-image: url(backgroundmain.gif);
+body { background-image: url(bck.gif);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
